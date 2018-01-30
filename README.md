@@ -1,4 +1,4 @@
-#前端开发：使用flex布局实现色子1-6饼
+#前端开发：使用flex布局实现骰子1-6饼
 
 ![效果图.png](http://upload-images.jianshu.io/upload_images/1840399-6da4425e5a4272fd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
